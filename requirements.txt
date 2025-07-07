@@ -1,0 +1,9 @@
+Flask==2.0.1
+numpy==1.21.0
+pandas==1.3.0
+scikit-learn==0.24.2
+plotly==5.1.0
+requests==2.25.1
+tensorflow==2.5.0
+streamlit==0.87.0
+isolationforest==0.1.0
